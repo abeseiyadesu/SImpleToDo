@@ -52,8 +52,9 @@ Room自体は順調に進められたものの、依存関係のエラーに悩�
 <br>  
 ホーム画面
 
-![SimpleToDo2 png](https://github.com/user-attachments/assets/901bfae1-e0f5-4618-b2e4-5e9236a95c7d)
+![SimpleToDo1](https://github.com/user-attachments/assets/1f08553a-ad85-41aa-b141-d564c6dfcfca)
+
 
 新規作成画面
 
-![SimpleToDo1](https://github.com/user-attachments/assets/1f08553a-ad85-41aa-b141-d564c6dfcfca)
+![SimpleToDo2 png](https://github.com/user-attachments/assets/901bfae1-e0f5-4618-b2e4-5e9236a95c7d)
