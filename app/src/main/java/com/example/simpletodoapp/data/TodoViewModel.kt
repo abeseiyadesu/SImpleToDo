@@ -3,11 +3,8 @@ package com.example.simpletodoapp.data
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
-import androidx.lifecycle.liveData
 import androidx.lifecycle.viewModelScope
-import androidx.room.Room
 import kotlinx.coroutines.launch
-import com.example.simpletodoapp.data.TodoRepository
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 
