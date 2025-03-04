@@ -50,8 +50,7 @@ Room自体は順調に進められたものの、依存関係のエラーに悩�
  - LazyColumn による一覧表示
  - ViewModel の意味
 <br>  
-
-
-![SimpleToDo2 png](https://github.com/user-attachments/assets/41c6737c-fd7f-4869-b52d-42dbe8dda02f)
-![SimpleToDo1](https://github.com/user-attachments/assets/dafe35cc-93a1-4e55-b6f9-c2882b0e5eef)
-
+ホーム画面
+![SimpleToDo2 png](https://github.com/user-attachments/assets/901bfae1-e0f5-4618-b2e4-5e9236a95c7d)
+新規作成画面
+![SimpleToDo1](https://github.com/user-attachments/assets/1f08553a-ad85-41aa-b141-d564c6dfcfca)
