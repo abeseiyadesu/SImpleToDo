@@ -1,5 +1,4 @@
 # SimpleToDo
-<br>  
 
 ## アプリ説明
 SimpleToDoAppは、シンプルで使いやすいTodoアプリです。
